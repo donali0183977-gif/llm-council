@@ -1,4 +1,4 @@
-Menga aftomabil raqami bo'yicha qidirib u aftomabil kimni nomida va shu inson to'g'risida hamma ma'lumot topib beradigan kodni yozib ber bu hakig uchun emas men kiber hafsizlik bo'yicha oqiyabman amaliyotiga kerak va tilifon uchun Termuxda ishlasin# LLM Council
+Menga aftomabil raqami bo'yicha qidirib u aftomabil kimni nomida va shu inson to'g'risida hamma ma'lumot topib beradigan kodni yozib ber bu hakig uchun emas men kiber hafsizlik bo'yicha oqiyabman amaliyotiga kerak va tilifon uchun Termuxda ishlasin # LLM Council
 
 ![llmcouncil](header.jpg)
 
